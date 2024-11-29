@@ -1,0 +1,1 @@
+export const movieApi = "https://674998fa868020296631c223.mockapi.io/moviesapi"
